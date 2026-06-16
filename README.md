@@ -9,7 +9,7 @@ Il problema richiede che un'auto compia una salita ripida accumulando energia po
 
 ## Contenuto della Repository
 * **`Progetto_LBC_presentazione.pptx`**: Slide complete utilizzate per la discussione dell'esame.
-* * **`Progetto_LBC_presentazione.pdf`**: Slide complete utilizzate per la discussione dell'esame (in formato pdf).
+* **`Progetto_LBC_presentazione.pdf`**: Slide complete utilizzate per la discussione dell'esame (in formato pdf).
 * **`Progetto_LBC.mlx`**: MATLAB Live Script contenente l'algoritmo completo di addestramento dell'agente intelligente.
 * **`animation_Mountain_Car_RBF.mp4`**: Animazione video che mostra le performance dell'agente addestrato con il Q-Learning RBF.
 * **`animation_Mountain_Car.mp4`**: Animazione video che mostra le performance dell'agente addestrato con il Q-Learning Tabular.
