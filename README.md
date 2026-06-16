@@ -15,3 +15,6 @@ Il problema richiede che un'auto compia una salita ripida accumulando energia po
 * **`animation_Mountain_Car.mp4`**: Animazione video che mostra le performance dell'agente addestrato con il Q-Learning Tabular.
 
 ---
+*Studente: Alessandro Di Santo*  
+*Professoressa: Erica Salvato*  
+*Corso di Laurea Magistrale in Computer Engineering (Robotics & AI) — Università degli Studi di Trieste*
